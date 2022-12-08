@@ -1,7 +1,6 @@
 /* ------------------------------ TASK 10 ---------------------------------------------------
 Sutvarkykite užduoties "Task 10" esančius failus taip, kad veiktų žemiau pateiktos funkcijos.
 -------------------------------------------------------------------------------------------- */
-
 let a = composition(one, four);
 let b = division(four, two);
 let c = substraction(three, two);
